@@ -24,10 +24,10 @@
 <table width="100">
 <tr>
   <td align='center' width="200">
-    <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="100">
   </td>
   <td align='center' width="200">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100">
   </td>
   <td align='center' width="200">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="100">
@@ -36,28 +36,29 @@
     <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
   </td>
   <td align='center' width="200">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100">
   </td>
 </tr>
 
 <tr>
   <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="100">
-  </td>
-  <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="100">
   </td>
   <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="100">
   </td>
   <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" width="100">
   </td>
   <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" width="100">
+    <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="100">
+  </td>
+  <td align='center'>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
   </td>
 </tr>
 </table>
+
 
 <p align="center">
 <a href="www.linkedin.com/in/shahrukh-javed459/"><img src="https://img.shields.io/badge/Shahrukh%20Javed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
