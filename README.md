@@ -20,7 +20,7 @@
 <table width="100">
 <tr>
   <td align='center' width="200">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/openai/grokai-icon.svg" width="100">
   </td>
   <td align='center' width="200">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100">
