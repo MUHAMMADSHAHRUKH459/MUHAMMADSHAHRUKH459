@@ -24,6 +24,7 @@
 <table width="100">
 <tr>
   <td align='center' width="200">
+    <!-- 1st image (OpenAI) -->
     <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="100">
   </td>
   <td align='center' width="200">
@@ -47,6 +48,7 @@
   <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="100">
   </td>
+  <!-- 8th image (Pinecone) -->
   <td align='center'>
     <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" width="100">
   </td>
@@ -58,7 +60,6 @@
   </td>
 </tr>
 </table>
-
 
 <p align="center">
 <a href="www.linkedin.com/in/shahrukh-javed459/"><img src="https://img.shields.io/badge/Shahrukh%20Javed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
